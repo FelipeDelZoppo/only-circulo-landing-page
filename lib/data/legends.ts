@@ -3,38 +3,38 @@ import { Legend } from "./types";
 export const legends: Legend[] = [
   {
     id: 1,
-    name: "Ricardo 'El Capitán' Morales",
-    position: "Defensa Central",
+    name: "Gino `El loco` Stefanatto",
+    position: "Director tecnico",
     image:
-      "https://images.unsplash.com/photo-1504257432389-52343af06ae3?w=400&h=400&fit=crop&crop=face",
-    stats: { matches: 156, goals: 12, assists: 24 },
-    years: "2024 - 2025",
+      "/images/gino-trofeo.jpeg",
+    stats: { matches: 20, goals: 0, assists: 0 },
+    years: "MAR 2025 - DEC 2025",
   },
   {
     id: 2,
-    name: "Antonio 'Toño' Velázquez",
-    position: "Delantero",
+    name: "Felipe 'El ingeniero' Del Zoppo",
+    position: "Defensor",
     image:
-      "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400&h=400&fit=crop&crop=face",
-    stats: { matches: 98, goals: 67, assists: 31 },
-    years: "2024 - 2025",
+      "/images/felipe-camiseta.jpeg",
+    stats: { matches: 8, goals: 5, assists: 4 },
+    years: "MAR 2025 - JUN 2025",
   },
   {
     id: 3,
-    name: "Javier 'El Mago' Castillo",
-    position: "Mediocampista",
+    name: "Ignacio `Locomotora` Azumendi",
+    position: "Defensor",
     image:
-      "https://images.unsplash.com/photo-1463453091185-61582044d556?w=400&h=400&fit=crop&crop=face",
-    stats: { matches: 142, goals: 34, assists: 89 },
-    years: "2024 - 2025",
+      "/images/nacho-aura.jpeg",
+    stats: { matches: 15, goals: 2, assists: 1 },
+    years: "MAR 2025 - DEC 2025",
   },
   {
     id: 4,
-    name: "Manuel 'La Muralla' Espinoza",
-    position: "Portero",
+    name: "Emanuel 'Pelota parada' Gallo",
+    position: "Todocampista",
     image:
-      "https://images.unsplash.com/photo-1528892952291-009c663ce843?w=400&h=400&fit=crop&crop=face",
-    stats: { matches: 178, goals: 0, assists: 2 },
-    years: "2024 - 2026",
-  },
+      "/images/ema-campera.jpeg",
+    stats: { matches: 8, goals: 0, assists: 0 },
+    years: "MAR 2025 - MAY 2025",
+  }
 ];

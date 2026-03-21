@@ -3,7 +3,7 @@ import { Instagram, Twitter, Facebook, Youtube } from "lucide-react"
 
 export function Footer() {
   const socialLinks = [
-    { icon: Instagram, href: "#", label: "Instagram" },
+    { icon: Instagram, href: "https://www.instagram.com/onlycirculo_fc?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", label: "Instagram" },
     { icon: Twitter, href: "#", label: "Twitter" },
     { icon: Facebook, href: "#", label: "Facebook" },
     { icon: Youtube, href: "#", label: "YouTube" },
@@ -45,7 +45,7 @@ export function Footer() {
 
           {/* Copyright */}
           <div className="text-center text-sm text-primary-foreground/60 border-t border-white/10 pt-8 w-full">
-            <p>© 2024 Only Circulo FC. Todos los derechos reservados.</p>
+            <p>© 2026 Only Circulo FC. Todos los derechos reservados.</p>
           </div>
         </div>
       </div>

@@ -16,7 +16,7 @@ export const players: Player[] = [
     position: "Mediocampista",
     number: 10,
     image:
-      "/images/Facu.jpeg",
+      "/images/facu-camiseta.jpeg",
     stats: { goals: 0, assists: 0 },
   },
   {
@@ -34,7 +34,7 @@ export const players: Player[] = [
     position: "Arquero",
     number: 1,
     image:
-      "/images/Rama.jpeg",
+      "/images/Rama-bandera.jpeg",
     stats: { goals: 0, assists: 1 },
   },
   {
@@ -43,7 +43,7 @@ export const players: Player[] = [
     position: "Mediocampista",
     number: 8,
     image:
-      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop&crop=face",
+      "/images/eze.jpeg",
     stats: { goals: 0, assists: 1 },
   },
   {
@@ -52,7 +52,7 @@ export const players: Player[] = [
     position: "Defensa",
     number: 5,
     image:
-      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop&crop=face",
+      "/images/juan.jpeg",
     stats: { goals: 2, assists: 0 },
   },
   {
@@ -61,7 +61,7 @@ export const players: Player[] = [
     position: "Mediocampista",
     number: 11,
     image:
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop&crop=face",
+      "/images/manu.jpeg",
     stats: { goals: 0, assists: 0 },
   },
   {
@@ -70,7 +70,7 @@ export const players: Player[] = [
     position: "Delantero",
     number: 7,
     image:
-      "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=face",
+      "/images/volpa.jpeg",
     stats: { goals: 0, assists: 0 },
   },
   {
@@ -79,7 +79,7 @@ export const players: Player[] = [
     position: "Defensa",
     number: 2,
     image:
-      "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=face",
+      "/images/luigi.jpeg",
     stats: { goals: 0, assists: 0 },
   },
   {
@@ -88,7 +88,7 @@ export const players: Player[] = [
     position: "Defensa",
     number: 14,
     image:
-      "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=face",
+      "https://vipdeportivo.es/wp-content/uploads/2025/01/fc-barcelona-v-atletico-de-madrid-la-liga-ea-sports-min-1-scaled.jpg",
     stats: { goals: 0, assists: 0 },
   },
 ];
