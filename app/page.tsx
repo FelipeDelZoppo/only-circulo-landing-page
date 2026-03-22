@@ -4,6 +4,7 @@ import { UpcomingMatchSection } from "@/components/upcoming-match-section"
 import { ResultsSection } from "@/components/results-section"
 import { LegendsSection } from "@/components/legends-section"
 import { Footer } from "@/components/footer"
+import { PicturesSection } from "@/components/pictures-section"
 
 export default function HomePage() {
   return (
@@ -13,6 +14,7 @@ export default function HomePage() {
       <UpcomingMatchSection />
       <ResultsSection />
       <LegendsSection />
+      <PicturesSection />
       <Footer />
     </main>
   )

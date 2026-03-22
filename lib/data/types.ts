@@ -45,3 +45,11 @@ export interface Coach {
     victories: number;
   };
 }
+
+export interface GalleryImage {
+  id: number
+  src: string
+  date: string
+  description: string,
+  objectPosition?: string
+}
