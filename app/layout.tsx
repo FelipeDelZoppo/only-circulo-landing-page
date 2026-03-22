@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Only Circulo FC - Official Website',
-  description: 'Welcome to Only Circulo FC - Navegando hacia la victoria desde 2024',
+  title: 'Only Circulo FC - Pagina oficial',
+  description: 'Bienvenido a la pagina oficial del Only Circulo FC - Navegando hacia la victoria desde 2024',
   generator: 'v0.app',
   icons: {
     icon: [
