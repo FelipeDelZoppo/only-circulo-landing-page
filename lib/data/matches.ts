@@ -14,7 +14,7 @@ export const previousMatches: Match[] = [
     id: 3,
     opponent: "La chispa",
     opponentLogo:
-      "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=200&h=200&fit=crop",
+      "/images/la-chispa.jpeg",
     date: "2026-03-10",
     score: { home: 3, away: 2 },
     scorers: ["L. Cordero (2)", "J. Tleye (1)"],
@@ -23,7 +23,7 @@ export const previousMatches: Match[] = [
     id: 4,
     opponent: "Los resaka",
     opponentLogo:
-      "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=200&h=200&fit=crop",
+      "/images/los-resaka.jpeg",
     date: "2026-03-03",
     score: { home: 1, away: 3 },
     scorers: ["L. Cordero (1)"],
