@@ -34,7 +34,7 @@ export const players: Player[] = [
     position: "Arquero",
     number: 1,
     image:
-      "/images/Rama-bandera.jpeg",
+      "/images/rama-bandera.jpeg",
     stats: { goals: 0, assists: 1 },
   },
   {
