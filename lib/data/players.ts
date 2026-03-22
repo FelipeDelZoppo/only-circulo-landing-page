@@ -43,7 +43,7 @@ export const players: Player[] = [
     position: "Mediocampista",
     number: 8,
     image:
-      "/images/eze.jpeg",
+      "/images/Eze.jpeg",
     stats: { goals: 0, assists: 1 },
   },
   {
@@ -52,7 +52,7 @@ export const players: Player[] = [
     position: "Defensa",
     number: 5,
     image:
-      "/images/juan.jpeg",
+      "/images/Juan.jpeg",
     stats: { goals: 2, assists: 0 },
   },
   {
@@ -61,7 +61,7 @@ export const players: Player[] = [
     position: "Mediocampista",
     number: 11,
     image:
-      "/images/manu.jpeg",
+      "/images/Manu.jpeg",
     stats: { goals: 0, assists: 0 },
   },
   {
@@ -70,7 +70,7 @@ export const players: Player[] = [
     position: "Delantero",
     number: 7,
     image:
-      "/images/volpa.jpeg",
+      "/images/Volpa.jpeg",
     stats: { goals: 0, assists: 0 },
   },
   {
