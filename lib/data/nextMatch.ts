@@ -6,6 +6,6 @@ export const upcomingMatch: Match = {
   opponentLogo:
     "/images/resaka.jpeg",
   date: "2026-03-23",
-  time: "23:00",
+  time: "20:30",
   isUpcoming: true,
 };
